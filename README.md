@@ -1,2 +1,9 @@
-# app-dev
-My first repository
+# ***My Favorite Series***
+
+***Lucifer***
+
+*Lucifer is an American urban fantasy television series developed by Tom Kapinos that began airing on January 25, 2016, and concluded on September 10, 2021. It revolves around Lucifer Morningstar (Tom Ellis), an alternate version of the DC Comics character of the same name created by Neil Gaiman, Sam Kieth, and Mike Dringenberg. In the series, Lucifer is the devil but abandons Hell to run a nightclub in Los Angeles, subsequently experiencing massive life changes when he becomes a consultant to the Los Angeles Police Department. The supporting cast includes Lauren German, Kevin Alejandro, D. B. Woodside, Lesley-Ann Brandt, Rachael Harris, and Aimee Garcia.*
+
+*Jerry Bruckheimer Television, DC Entertainment, and Warner Bros. Television served as producers. Filming took place primarily in Vancouver before production was relocated entirely to Los Angeles at the start of the third season. The first season received mixed reviews from critics, and its original broadcaster Fox canceled it after three seasons in May 2018. One month later, Netflix picked up the show following the fanbase's campaign to save it, and the series continued for a further three seasons; it consistently earned high viewership during its time on Netflix.*
+
+*The series focuses on Lucifer Morningstar, a powerful angel who was cast out of Heaven for his rebellion and forced to spend millennia punishing people as the lord of Hell. Bored and unhappy with his life in Hell, he abdicates his throne in defiance of his father (God) and moves to Los Angeles, where he runs his own nightclub. When he finds himself involved in a murder investigation, he meets Chloe Decker, a detective with the Los Angeles Police Department who intrigues him as she is the first human to be immune to his charms. After helping the police solve the case with his most commonly used power—manipulating humans into revealing their deepest desires to him—Lucifer accepts a subsequent invitation to work continuously with Chloe as a police consultant. Throughout the series, they encounter all sorts of supernatural beings while solving crimes together and developing their relationship.*
